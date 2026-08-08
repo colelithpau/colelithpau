@@ -1,11 +1,11 @@
 div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazlseGVubXR5cGxtd29lbXNlMHd4MnR1NnB4aWFvMXVteGFmZ2Y0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="200"/>
 <h1>
-    hi, I'm Colelithpaulo
+    hi, I'm colelithpau
 </h1>
 </div>
-- 🐊 CS NU - Asia Pacific College
-- ✒️ Tech Student 
+- 🐊 CS 2027 @University of Florida
+- ✒️ Aspiring Cloud Security Engineer
  📧 [![LinkedIn] (https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliane-lith-nicole-paulo-69a42b378) 
 
 ## ⚒️ languages & tools
