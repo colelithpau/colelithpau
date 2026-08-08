@@ -4,9 +4,10 @@
     hi, I'm colelithpau
 </h1>
 </div>
-- 🐊 CS 2027 @University of Florida
+
+## 👨‍💻 about me  
+- 🐊 CS @Asia Pacific College 
 - ✒️ Aspiring Cloud Security Engineer
- 📧 [![LinkedIn] (https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliane-lith-nicole-paulo-69a42b378) 
 
 ## ⚒️ languages & tools
 <div>
