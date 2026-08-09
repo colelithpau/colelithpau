@@ -1,12 +1,12 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXYyMTQxcW9udXU1N3R3ZTk5Mmh6ZXg4ZTk4bHNmbTh0dHVpZ2tyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DRNsbfCHNznxe/giphy.gif" width="500"/>
 <h1>
-    hi, I'm colelithpau
+    hello! I'm colelithpau
 </h1>
 </div>
 
 ## 👨‍💻 about me  
-- 🐊 CS @Asia Pacific College 
+- 🐊 CS-CF @Asia Pacific College 
 - ✒️ Aspiring Cloud Security Engineer
 
 ## ⚒️ languages & tools
@@ -18,4 +18,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://share.google/zzXdgaUdaRtWZQTXK.svg" title="Python" alt="Python" width="40"/>
 </div>
