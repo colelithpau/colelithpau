@@ -6,7 +6,7 @@
 </div>
 
 ## 👨‍💻 about me  
-- 🐊 CS-CF @Asia Pacific College 
+- 🏫 CS-CF @Asia Pacific College 
 - ☁️🛡️ Aspiring Cloud Security Engineer
 
 ## ⚒️ languages & tools
