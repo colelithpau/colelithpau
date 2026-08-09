@@ -18,5 +18,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://share.google/zzXdgaUdaRtWZQTXK.svg" title="Python" alt="Python" width="40"/>
+  <img src="https://share.google/zzXdgaUdaRtWZQTXK" title="Python" alt="Python" width="40"/>
 </div>
