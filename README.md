@@ -7,7 +7,7 @@
 
 ## 👨‍💻 about me  
 - 🏫 CS-CF @Asia Pacific College 
-- ☁️🛡️ Aspiring Software & Cloud Security Engineer
+- ☁️🛡️ Aspiring Software & SOC Analyst
 
 ## ⚒️ languages & tools
 <div>
