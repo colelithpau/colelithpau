@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/DZvu7nEwBKrjVTCWad" width="300"/>
+  <img src="https://giphy.com/gifs/stmdesigntheunique-dee-mascot-deetales-eZ3hpr9knX1Gqo2poq" width="300"/>
 
 <h1>
     hello! I'm lith
