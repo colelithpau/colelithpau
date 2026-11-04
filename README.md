@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <div class="tenor-gif-embed" data-postid="1801489096118920303" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/scuba-scuba-cat-nick-wilde-stank-dance-gif-1801489096118920303">Scuba Scuba Cat Sticker</a>from <a href="https://tenor.com/search/scuba-stickers">Scuba Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> width="300"/>
+  <div class="https://tenor.com/view/scuba-scuba-cat-nick-wilde-stank-dance-gif-1801489096118920303"> width="300"/>
 
 <h1>
     hello! I'm lith
