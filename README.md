@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/stmdesigntheunique-dee-mascot-deetales-eZ3hpr9knX1Gqo2poq" width="300"/>
+  <img src="https://tenor.com/view/scuba-scuba-cat-nick-wilde-stank-dance-gif-1801489096118920303" width="300"/>
 
 <h1>
     hello! I'm lith
