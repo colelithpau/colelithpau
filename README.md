@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <div class="https://tenor.com/view/scuba-scuba-cat-nick-wilde-stank-dance-gif-1801489096118920303"> <width="300"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazlseGVubXR5cGxtd29lbXNlMHd4MnR1NnB4aWFvMXVteGFmZ2Y0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="200"/>
 
 <h1>
     hello! I'm lith
