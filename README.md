@@ -8,7 +8,6 @@
 
 ## 👨‍💻 about me  
 - 🏫 CS-CF @Asia Pacific College 
-- ☁️🛡️ Aspiring SOC Analyst
 
 ## ⚒️ languages & tools
 <div>
