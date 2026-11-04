@@ -11,7 +11,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/juliane-lith-nicole-paulo-69a42b378) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jppaulo@student.apc.edu.ph)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/juliane-lith-nicole-paulo-69a42b378/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jppaulo@student.apc.edu.ph)
 
 ## ⚒️ languages & tools
 <div>
