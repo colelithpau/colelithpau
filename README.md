@@ -6,15 +6,15 @@
 </h1>
 </div>
 
-## 👨‍💻 about me  
+## about me  
 - 🏫 CS-CF @Asia Pacific College
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliane-lith-nicole-paulo-69a42b378/?trk=PROFILE_DROP_DOWN)
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jppaulo@student.apc.edu.ph)
 
-## ⚒️ languages & tools
+## languages & tools
 <div>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/> 
